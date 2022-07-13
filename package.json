@@ -4,13 +4,13 @@
   "version": "0.0.1",
   "dependencies": {
     "debug": "2.6.9",
-    "ejs": "^3.1.7",
+    "ejs": "^3.1.8",
     "hoek": "^4.0.0",
     "npm": "^8.13.2",
     "streaming-json-stringify": "^3.1.0"
   },
   "devDependencies": {
-    "eslint": "^6.2.2"
+    "eslint": "^8.19.0"
   },
   "engines": {
     "npm": "2.15.0"
